@@ -1,3 +1,2 @@
-Tạo thử 1 file text.txt
-Pull thử lên trang https://github.com/phanvu000666/chuyen-de-cms.git
-Dùng SmartGit
+Đây là file text.txt
+của branch week1 mà thôi!
