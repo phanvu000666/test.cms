@@ -1,2 +1,2 @@
 Đây là file week1.txt
-của brand week1 ở local
+của local
