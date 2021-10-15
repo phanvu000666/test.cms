@@ -1,2 +1,2 @@
 Đây là file text.txt
-của branch week1 mà thôi!
+của branch week1 and main!
