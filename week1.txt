@@ -1,4 +1,2 @@
 Đây là file week1.txt
-concucccccsdfadfadf
-àásaffdfasdfsf
-adfsadfs
+Thuộc branch: week1 và main
