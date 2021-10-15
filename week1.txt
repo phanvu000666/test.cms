@@ -1,2 +1,2 @@
 Đây là file week1.txt
-của wee1 mà thôi !
+của week1 và main!
